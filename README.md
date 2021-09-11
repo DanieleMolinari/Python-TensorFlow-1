@@ -1,0 +1,2 @@
+# Python-TensorFlow-1
+Analysis of a dataset on human activity classification. The dataset consists of time series recordings from the inertial sensors of smartphones that are carried by people performing different activities. The dataset contains both raw data and extracted features that can be used to classify human activities. In this project I will be using multiclass logistic regression to train a classifier that will predict activity based on the features.
